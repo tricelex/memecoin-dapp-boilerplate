@@ -1,6 +1,6 @@
-# Cadena Bank DAPP
+# Cadena MEMECOIN DAPP
 
-This is the completed code for the Bank DAPP.
+This is the completed code for the Memecoin DAPP.
 
 ## To Install
 
